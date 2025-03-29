@@ -2,6 +2,10 @@
 
 An openFrameworks application that performs 3D t-SNE (t-Distributed Stochastic Neighbor Embedding) visualization of image datasets with interactive camera controls.
 
+## Screenshots
+
+![3D t-SNE Visualization Screenshot](스크린샷%202025-03-29%20오후%208.01.53.png)
+
 ## Overview
 
 This application uses deep learning features extracted from images to create a 3D visualization where similar images are positioned closer together. The application demonstrates:
