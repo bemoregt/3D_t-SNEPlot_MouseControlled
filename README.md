@@ -4,7 +4,9 @@ An openFrameworks application that performs 3D t-SNE (t-Distributed Stochastic N
 
 ## Screenshots
 
-![t-SNE Visualization Example](https://raw.githubusercontent.com/bemoregt/wwNeuroBlock/master/ScreenShot.png)
+![t-SNE Visualization Example](demo.jpg)
+
+*Example of t-SNE visualization (actual application output will show image clustering in 3D space)*
 
 ## Overview
 
