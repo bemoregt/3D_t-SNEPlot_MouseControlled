@@ -4,7 +4,7 @@ An openFrameworks application that performs 3D t-SNE (t-Distributed Stochastic N
 
 ## Screenshots
 
-![3D t-SNE Visualization Example](https://raw.githubusercontent.com/gene-ht/UMAP-GUI/main/Screenshot%202023-07-16%20at%2010.49.21%20AM.png)
+![3D t-SNE Visualization Example](https://github.com/bemoregt/t-SNEImagesExample/raw/master/tSNE_example.png)
 
 ## Overview
 
