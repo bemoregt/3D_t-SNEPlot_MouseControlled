@@ -4,9 +4,13 @@ An openFrameworks application that performs 3D t-SNE (t-Distributed Stochastic N
 
 ## Screenshots
 
+![3D t-SNE Visualization](ScrShot_2.png)
+
+*3D t-SNE visualization showing image clusters in 3D space with automatic rotation*
+
 ![t-SNE Visualization Example](demo.jpg)
 
-*Example of t-SNE visualization (actual application output will show image clustering in 3D space)*
+*Example of t-SNE visualization with different image categories*
 
 ## Overview
 
