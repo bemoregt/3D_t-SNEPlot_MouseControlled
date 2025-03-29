@@ -4,7 +4,7 @@ An openFrameworks application that performs 3D t-SNE (t-Distributed Stochastic N
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/19407972/56866376-62fd2080-6a11-11e9-9678-43e7c87a6d72.png" width="600">
+![t-SNE Visualization Example](https://raw.githubusercontent.com/bemoregt/wwNeuroBlock/master/ScreenShot.png)
 
 ## Overview
 
